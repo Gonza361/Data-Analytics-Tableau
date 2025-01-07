@@ -1,2 +1,2 @@
-# Data-Analytics---Tableau
+# Data-Analytics-Tableau
 Data Analytics learning - Tableau
